@@ -13,7 +13,8 @@ ToDo App is a task management Flutter application designed to help users stay pr
 * 🗑️ Task Deletion: Remove completed or irrelevant tasks.
 * 📅 Due Dates: Assign deadlines and prioritize tasks.
 ## Screenshots 📷
-<img src="">
+<img src="Screenshots/20240926194108.jpg">
+<img src="Screenshots/20240926194116.jpg">
 
 ## Prerequisites 🛠️
 
