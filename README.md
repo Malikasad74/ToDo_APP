@@ -26,7 +26,7 @@ ToDo App is a task management Flutter application designed to help users stay pr
 1. Clone the Repository:
 
 ```
-git clone https://github.com/yourusername/todoapp.git
+git clone https://github.com/Malikasad74/ToDo_APP.git
 cd todoapp
 
 ```
