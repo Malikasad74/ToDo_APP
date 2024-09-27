@@ -65,6 +65,6 @@ flutter run
 
 # Excited to boost your productivity? Simply tap the image below to download the APK and start mastering your tasks effortlessly. Get organized today!
 
-<a href="https://example.com/your-apk-file.apk">
-    <img src="https://example.com/image.png" alt="Download ToDo App">
+<a href="app-release.apk">
+    <img src="assets/images/apklogo.png" alt="Download ToDo App">
 </a>
